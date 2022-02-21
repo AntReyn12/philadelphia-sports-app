@@ -27,6 +27,7 @@ const App = () => {
           <img src={sixersLogo} alt="Sixers Logo" />
         </div>
       </div>
+      <footer>Philadelphia Sports Rosters, 2022</footer>
     </div>
   );
 };
