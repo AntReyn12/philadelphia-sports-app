@@ -1,13 +1,9 @@
 .sixers-card {
   background-color: #006bb6;
   border-radius: 10px;
-}
-.sixers-card p {
-  margin: 0;
-  padding-bottom: 10px;
-  color: #ed174c;
-  font-weight: bold;
+  margin: 30px;
 }
 .sixers-card img {
-  padding-bottom: 10px;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }

@@ -1,12 +1,9 @@
 .eagles-card {
   background-color: #004c54;
   border-radius: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+  margin: 30px;
 }
-.eagles-card p {
-  color: #a5acaf;
-  font-size: 26px;
-  font-weight: bold;
-  padding-top: 20px;
-  margin: 0;
+.eagles-card img {
+  padding: 80px 15px 55px 15px;
 }

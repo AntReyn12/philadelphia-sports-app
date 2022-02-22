@@ -6,7 +6,6 @@ const Flyers = () => {
   return (
     <div className="flyers-card">
       <img src={flyersLogo} alt="Flyers Logo" />
-      <p>Bring It To Broad</p>
     </div>
   );
 };

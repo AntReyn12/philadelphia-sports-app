@@ -6,7 +6,6 @@ const Sixers = () => {
   return (
     <div className="sixers-card">
       <img src={sixersLogo} alt="Sixers Logo" />
-      <p>Trust The Process</p>
     </div>
   );
 };
