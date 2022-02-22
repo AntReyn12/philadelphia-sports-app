@@ -1,0 +1,11 @@
+.flyers-card {
+  background-color: #f74902;
+  border-radius: 10px;
+}
+.flyers-card p {
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+.flyers-card img {
+  padding-bottom: 10px;
+}

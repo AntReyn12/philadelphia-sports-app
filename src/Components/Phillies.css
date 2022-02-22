@@ -1,0 +1,15 @@
+.phillies-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.phillies-card p {
+  margin: 0;
+  padding-top: 15px;
+  margin-bottom: 10px;
+  color: #e81828;
+  font-weight: bold;
+}
+.phillies-card img {
+  padding-top: 0px;
+  padding-bottom: 5px;
+}
