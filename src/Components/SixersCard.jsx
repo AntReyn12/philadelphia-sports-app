@@ -1,8 +1,8 @@
 import React from "react";
-import "./Sixers.css";
+import "./SixersCard.css";
 import sixersLogo from "../img/sixers-logo.png";
 
-const Sixers = () => {
+const SixersCard = () => {
   return (
     <div className="sixers-card">
       <img src={sixersLogo} alt="Sixers Logo" />
@@ -10,4 +10,4 @@ const Sixers = () => {
   );
 };
 
-export default Sixers;
+export default SixersCard;

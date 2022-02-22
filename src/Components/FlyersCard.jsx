@@ -1,8 +1,8 @@
 import React from "react";
-import "./Flyers.css";
+import "./FlyersCard.css";
 import flyersLogo from "../img/flyers-logo.png";
 
-const Flyers = () => {
+const FlyersCard = () => {
   return (
     <div className="flyers-card">
       <img src={flyersLogo} alt="Flyers Logo" />
@@ -10,4 +10,4 @@ const Flyers = () => {
   );
 };
 
-export default Flyers;
+export default FlyersCard;

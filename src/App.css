@@ -50,6 +50,7 @@ header {
   flex-direction: column;
   text-align: center;
   width: 35%;
+  box-shadow: -1px 1px 13px 2px #000000;
 }
 .eagles-card:hover,
 .phillies-card:hover,

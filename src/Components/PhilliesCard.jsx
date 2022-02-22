@@ -1,8 +1,8 @@
 import React from "react";
-import "./Phillies.css";
+import "./PhilliesCard.css";
 import philliesLogo from "../img/phillies-logo.png";
 
-const Phillies = () => {
+const PhilliesCard = () => {
   return (
     <div className="phillies-card">
       <img src={philliesLogo} alt="Phillies Logo" />
@@ -10,4 +10,4 @@ const Phillies = () => {
   );
 };
 
-export default Phillies;
+export default PhilliesCard;

@@ -1,8 +1,8 @@
 import React from "react";
-import "./Eagles.css";
+import "./EaglesCard.css";
 import eaglesLogo from "../img/eagles-logo.png";
 
-const Eagles = () => {
+const EaglesCard = () => {
   return (
     <div className="eagles-card">
       <img src={eaglesLogo} alt="Eagles Logo" />
@@ -10,4 +10,4 @@ const Eagles = () => {
   );
 };
 
-export default Eagles;
+export default EaglesCard;
