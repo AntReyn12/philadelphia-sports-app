@@ -1,10 +1,10 @@
-import React, {useState} from "react";
+import React from "react";
 import "./EaglesCard.css";
 import eaglesLogo from "../img/eagles-logo.png";
 
-const EaglesCard = () => {
+const EaglesCard = (props) => {
   return (
-    <div className="eagles-card">
+    <div className="eagles-card" onClick={props.onClick}>
       <img src={eaglesLogo} alt="Eagles Logo" />
     </div>
   );
