@@ -2,8 +2,9 @@ import React from "react";
 
 const PhilliesRoster = () => {
   return (
-    <div>
-      <h1>Player Name</h1>
+    <div className="roster">
+      <h1>Player name</h1>
+      <p>Player picture</p>
       <p>Player number</p>
       <p>Player position</p>
     </div>

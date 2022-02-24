@@ -17,32 +17,7 @@ header {
   color: black;
   border-bottom: 2px solid black;
 }
-.teams {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-  font-family: "Source Sans Pro", sans-serif;
-  color: black;
-}
-.teams-intro {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-.teams-h1 {
-  width: 100%;
-  font-size: 22px;
-  text-align: center;
-}
-.team-cards {
-  width: 75%;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
+
 .eagles-card,
 .phillies-card,
 .flyers-card,
@@ -67,4 +42,13 @@ footer {
   margin-top: 20px;
   border-top: black 2px solid;
   color: black;
+}
+.roster {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid white;
+  width: 100%;
+  border-radius: 12px;
+  margin: 15px 0;
 }

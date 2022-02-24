@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import "./TeamCards.css";
 import EaglesCard from "./EaglesCard";
 import EaglesRoster from "./EaglesRoster";
 import SixersCard from "./SixersCard";
