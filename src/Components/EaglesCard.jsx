@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState} from "react";
 import "./EaglesCard.css";
 import eaglesLogo from "../img/eagles-logo.png";
 

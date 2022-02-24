@@ -1,13 +1,17 @@
-import React from "react";
-import Home from "./Components/Home";
+import React, {useState} from "react";
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
+import EaglesRoster from "./Components/EaglesRoster";
+import TeamCards from "./Components/TeamCards";
 import "./App.css";
 
 const App = () => {
   return (
     <div className="App">
-      <header>Philadelphia Sports Rosters</header>
-      <Home />
-      <footer>Philadelphia Sports Rosters, 2022</footer>
+      <Header />
+      <TeamCards />
+      <EaglesRoster />
+      <Footer />
     </div>
   );
 };
