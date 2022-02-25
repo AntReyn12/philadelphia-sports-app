@@ -43,12 +43,40 @@ footer {
   border-top: black 2px solid;
   color: black;
 }
-.roster {
+.roster-p {
+  font-size: 24px;
+  font-weight: bold;
+}
+.playerName {
+  width: 50%;
+}
+.filter {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  margin: 0 auto;
+  font-size: 24px;
+}
+select {
+  border-radius: 6px;
+  width: 65px;
+  font-size: 20px;
+}
+/* EAGLES ROSTER */
+.eaglesRoster {
+  width: 100%;
+  margin: 25px 0 15px 0;
+  background-color: #a5acaf;
+  padding: 15px 45px 15px 45px;
+  border-radius: 12px;
+}
+.eaglesPlayer {
+  background-color: #004c54;
+  color: #a5acaf;
   display: flex;
   align-items: center;
-  justify-content: center;
-  border: 2px solid white;
-  width: 100%;
+  justify-content: space-around;
+  border: 2px solid #acc0c6;
   border-radius: 12px;
   margin: 15px 0;
 }
