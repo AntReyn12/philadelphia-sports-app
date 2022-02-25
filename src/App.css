@@ -50,19 +50,20 @@ footer {
 .playerName {
   width: 50%;
 }
-.filter {
-  display: flex;
-  justify-content: space-around;
-  width: 35%;
-  margin: 0 auto;
-  font-size: 24px;
-}
 select {
   border-radius: 6px;
   width: 65px;
   font-size: 20px;
 }
 /* EAGLES ROSTER */
+.eagles-filter {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  margin: 0 auto;
+  font-size: 24px;
+  color: #004c54;
+}
 .eaglesRoster {
   width: 100%;
   margin: 25px 0 15px 0;
@@ -77,6 +78,32 @@ select {
   align-items: center;
   justify-content: space-around;
   border: 2px solid #acc0c6;
+  border-radius: 12px;
+  margin: 15px 0;
+}
+/* PHILLIES ROSTER */
+.phillies-filter {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  margin: 0 auto;
+  font-size: 24px;
+  color: white;
+}
+.philliesRoster {
+  width: 100%;
+  margin: 25px 0 15px 0;
+  background-color: #002d72;
+  padding: 15px 45px 15px 45px;
+  border-radius: 12px;
+}
+.philliesPlayer {
+  background-color: #e81828;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 2px solid white;
   border-radius: 12px;
   margin: 15px 0;
 }

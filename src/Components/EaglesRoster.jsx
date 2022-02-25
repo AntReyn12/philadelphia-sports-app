@@ -16,7 +16,7 @@ const EaglesRoster = () => {
 
   return (
     <div className="eaglesRoster">
-      <div className="filter">
+      <div className="eagles-filter">
         <label>Filter by position</label>
         <select value={position} onChange={handleFilter}>
           <option value="All">All</option>
