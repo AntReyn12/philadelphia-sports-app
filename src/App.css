@@ -107,3 +107,29 @@ select {
   border-radius: 12px;
   margin: 15px 0;
 }
+/* FLYERS ROSTER */
+.flyers-filter {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  margin: 0 auto;
+  font-size: 24px;
+  color: black;
+}
+.flyersRoster {
+  width: 100%;
+  margin: 25px 0 15px 0;
+  background-color: #f74902;
+  padding: 15px 45px 15px 45px;
+  border-radius: 12px;
+}
+.flyersPlayer {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 2px solid white;
+  border-radius: 12px;
+  margin: 15px 0;
+}
