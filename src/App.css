@@ -133,3 +133,29 @@ select {
   border-radius: 12px;
   margin: 15px 0;
 }
+/* SIXERS ROSTER */
+.sixers-filter {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  margin: 0 auto;
+  font-size: 24px;
+  color: white;
+}
+.sixersRoster {
+  width: 100%;
+  margin: 25px 0 15px 0;
+  background-color: #006bb6;
+  padding: 15px 45px 15px 45px;
+  border-radius: 12px;
+}
+.sixersPlayer {
+  background-color: #ed174c;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 2px solid white;
+  border-radius: 12px;
+  margin: 15px 0;
+}
