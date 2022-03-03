@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/philadelphia-sports-app/static/css/main.68d86946.css",
+    "main.js": "/philadelphia-sports-app/static/js/main.7a11f6e2.js",
+    "static/js/787.9e2d4298.chunk.js": "/philadelphia-sports-app/static/js/787.9e2d4298.chunk.js",
+    "static/media/phillies-logo.png": "/philadelphia-sports-app/static/media/phillies-logo.651d9ce10fbe5a3c84e9.png",
+    "static/media/sixers-logo.png": "/philadelphia-sports-app/static/media/sixers-logo.6c74703b87f247684992.png",
+    "static/media/flyers-logo.png": "/philadelphia-sports-app/static/media/flyers-logo.b3008ecb389b0f86e333.png",
+    "static/media/eagles-logo.png": "/philadelphia-sports-app/static/media/eagles-logo.baea21c8b343b4d67811.png",
+    "index.html": "/philadelphia-sports-app/index.html",
+    "main.68d86946.css.map": "/philadelphia-sports-app/static/css/main.68d86946.css.map",
+    "main.7a11f6e2.js.map": "/philadelphia-sports-app/static/js/main.7a11f6e2.js.map",
+    "787.9e2d4298.chunk.js.map": "/philadelphia-sports-app/static/js/787.9e2d4298.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d86946.css",
+    "static/js/main.7a11f6e2.js"
+  ]
+}
