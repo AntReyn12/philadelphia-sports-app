@@ -160,3 +160,28 @@ select {
   border-radius: 12px;
   margin: 15px 0;
 }
+
+@media only screen and (max-width: 650px) {
+  .eagles-card,
+  .phillies-card,
+  .flyers-card,
+  .sixers-card {
+    width: 100%;
+  }
+  .eagles-filter,
+  .phillies-filter,
+  .flyers-filter,
+  .sixers-filter {
+    width: 100%;
+  }
+  label {
+    font-size: 20px;
+  }
+  select {
+    width: 55px;
+  }
+  .playerName,
+  .roster-p {
+    font-size: 20px;
+  }
+}
